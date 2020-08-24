@@ -1,0 +1,11 @@
+@media (max-width: 1530px) {
+    .slide .content {
+        left: -240px;
+      }
+
+
+
+      footer .footer .footerContact {
+        justify-content: space-around;
+    }
+}
